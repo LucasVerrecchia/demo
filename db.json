@@ -1,12 +1,12 @@
 {
   "notes": [
-    { "id": 1, "title": "Première note", "content": "Coucou" },
-    { "id": 2, "title": "Deuxieme note" },
-    { "id": 3, "title": "Troisieme note" }
+    { "id": 1, "title": "Pense bête", "content": "Oublie pas le liquide lave vaisselle (encore)" },
+    { "id": 2, "title": "Deuxieme note", "content": "Super idées cadeaux" },
+    { "id": 3, "title": "Troisieme note", "content": "Non la j'ai plus d'inspi" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "noteId": 1 },
-    { "id": 2, "body": "some comment", "noteId": 1 }
+    { "id": 1, "body": "on parie qu'il va encore zapper", "noteId": 1 },
+    { "id": 2, "body": "super", "noteId": 1 }
   ],
   "profile": {
     "name": "Lucas"
